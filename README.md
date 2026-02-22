@@ -21,6 +21,5 @@ Top 10 Platforms by Global Sales
 
 Global Sales Trend Over Years
 
-
-
+### Conclusion
 The analysis shows that most games have low sales, a few achieve very high sales, and global sales peaked around 2008–2009.
