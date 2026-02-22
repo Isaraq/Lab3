@@ -1,25 +1,14 @@
-# Lab3
-This lab performs Exploratory Data Analysis (EDA) on the Video Game Sales dataset (vgsales.csv) to understand data structure, detect missing values, and explore sales patterns.
+##Problem description
 
-### Tasks Performed
+The aim of this lab is to perform Exploratory Data Analysis (EDA) on the Video Game Sales dataset. The objective is to understand the dataset structure, analyze sales patterns, detect missing values, and explore relationships between different features. This step helps prepare the data for future machine learning tasks.
 
-Loaded and inspected the dataset
+##DataSet
 
-Checked data types and missing values
+Video Game Sales Dataset
+The dataset contains tabular data about video games, including platform, genre, publisher, year of release, and regional sales (NA, EU, JP, Other).
+The key feature analyzed is Global_Sales, which represents total worldwide sales.
 
-Generated summary statistics
+##Files
 
-Created visualizations
-
-### Visualizations
-
-Distribution of Global Sales
-
-Number of Games by Genre
-
-Top 10 Platforms by Global Sales
-
-Global Sales Trend Over Years
-
-### Conclusion
-The analysis shows that most games have low sales, a few achieve very high sales, and global sales peaked around 2008–2009.
+Lab3.ipynb
+vgsales.csv
