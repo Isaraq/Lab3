@@ -1,7 +1,7 @@
 # Lab3
 This lab performs Exploratory Data Analysis (EDA) on the Video Game Sales dataset (vgsales.csv) to understand data structure, detect missing values, and explore sales patterns.
 
-## Tasks Performed
+### Tasks Performed
 
 Loaded and inspected the dataset
 
@@ -11,7 +11,7 @@ Generated summary statistics
 
 Created visualizations
 
-## Visualizations
+### Visualizations
 
 Distribution of Global Sales
 
@@ -21,5 +21,4 @@ Top 10 Platforms by Global Sales
 
 Global Sales Trend Over Years
 
-
-### The analysis shows that most games have low sales, a few achieve very high sales, and global sales peaked around 2008–2009.
+The analysis shows that most games have low sales, a few achieve very high sales, and global sales peaked around 2008–2009.
